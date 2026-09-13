@@ -1,0 +1,5 @@
+[Network]
+NetworkName=vpa
+Internal=true
+Subnet=172.20.11.0/24
+Gateway=172.20.11.1
