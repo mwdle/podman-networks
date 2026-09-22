@@ -1,0 +1,4 @@
+[Network]
+NetworkName=jenkins
+Subnet=172.16.16.0/24
+Gateway=172.16.16.1
